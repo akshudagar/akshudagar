@@ -6,7 +6,7 @@
 | 🤵 | Name | Akshay Dagar |
 | 📆 | Age| 🔞 |
 | 🏞️ | Place | India Haryana |
-| 📣 | Language | Hindi |
+| 📣 | Language | Hindi, English |
 
 <img src="https://github-stats-alpha.vercel.app/api/?username=akshudagar&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 
