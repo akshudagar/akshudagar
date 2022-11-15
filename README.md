@@ -3,7 +3,7 @@
 
 | Emoji | Details | Info |
 | ---- | ---- | ---- |
-| 🤵 | Name | Akshy Dagar |
+| 🤵 | Name | Akshay Dagar |
 | 📆 | Age| 🔞 |
 | 🏞️ | Place | India Haryana |
 | 📣 | Language | Hindi |
