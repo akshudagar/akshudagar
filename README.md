@@ -36,7 +36,7 @@ I am a Graphics Designer, You can see my [projects](https://github.com/akshudaga
 <a href="https://github.com/akshudagar/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
 </a>
-<a href="https://github.com/akshudagar/readme-components">
+<a href="https://github.com/akshudagar">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
 
