@@ -1,4 +1,4 @@
-👋 **Hello** Guys, **Welcome** To **akshudagar** Github
+# Hi there 👋
 
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
